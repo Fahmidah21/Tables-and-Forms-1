@@ -1,0 +1,10 @@
+table,th,td{
+border:2px solid #8499b1;
+border-collapse:seperate;
+empty-cells: hide;
+}
+
+table{
+  text-align:center;
+  margin:auto;
+}
